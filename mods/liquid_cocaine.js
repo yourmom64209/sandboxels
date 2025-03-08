@@ -1,5 +1,5 @@
 elements.liquid_cocaine = {
-	color:"#d3d3d3",
+	color:"#979797",
 	behavior: behaviors.LIQUID,
 	category: "drugs",
 	state: "liquid",
